@@ -78,7 +78,7 @@ https://gg.poocloud.in/lasvegasraiders/index.m3u8
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/phillies/index.m3u8
+https://gg.poocloud.in/phillies/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/f93c69dbda8f9e2fef78d3d479541242-thumbnail.jpg" group-title="PPVLand - MLB",Pittsburgh Pirates vs. Washington Nationals
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
@@ -98,7 +98,7 @@ https://gg.poocloud.in/guardians/index.m3u8
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/marlins/index.m3u8
+https://gg.poocloud.in/marlins/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/73c97bf81e8ee14b84f64803ce02d3a6-thumbnail.jpg" group-title="PPVLand - MLB",New York Yankees vs. Boston Red Sox
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
@@ -108,7 +108,7 @@ https://gg.poocloud.in/redsox/index.m3u8
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/mets/index.m3u8
+https://gg.poocloud.in/mets/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/ee0ec30e83f42dea48e771007654f6e4-thumbnail.jpg" group-title="PPVLand - MLB",Houston Astros vs. Atlanta Braves
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
@@ -164,6 +164,11 @@ https://gg.poocloud.in/boxing/index.m3u8
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 https://gg.poocloud.in/ufc/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/68ddaa2a466f29b939fb87bb71cb0e0b-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Arsenal vs. Nottingham Forest
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://gg.poocloud.in/epl_arsenal/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/5f8a819bdb7875b6c823eec12ce97257-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Getafe CF vs. Real Oviedo
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
@@ -223,7 +228,7 @@ https://gg.poocloud.in/epl_everton/index.m3u8
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/epl_fulham/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/epl_fulham/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/e07a59aa2a9caad5294ae0658325b7eb-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Newcastle United vs. Wolverhampton Wanderers
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
