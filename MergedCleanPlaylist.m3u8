@@ -7542,6 +7542,8 @@ https://fl7.moveonjoy.com/AMC_NETWORK/index.m3u8
 https://fl7.moveonjoy.com/American_Heroes_Channel/index.m3u8
 #EXTINF:-1  tvg-name="Animal Planet" tvg-id="Animal.Planet.US.-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" group-title="MoveOnJoy" radio="false",Animal Planet
 https://fl7.moveonjoy.com/Animal_Planet/index.m3u8
+#EXTINF:-1  tvg-name="Antenna TV" tvg-id="Antenna.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/antenna-us.png?raw=true" group-title="MoveOnJoy" radio="false",Antenna TV
+https://fl7.moveonjoy.com/Antenna_TV/index.m3u8
 #EXTINF:-1  tvg-name="Aspire" tvg-id="ASPiRE.TV.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/aspire-tv-us.png" group-title="MoveOnJoy" radio="false",Aspire
 https://fl7.moveonjoy.com/Aspire/index.m3u8
 #EXTINF:-1  tvg-name="BBC AMERICA" tvg-id="BBC.America.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" group-title="MoveOnJoy" radio="false",BBC AMERICA
@@ -7594,12 +7596,16 @@ https://fl7.moveonjoy.com/Cleo_TV/index.m3u8
 https://fl7.moveonjoy.com/CMT/index.m3u8
 #EXTINF:-1  tvg-name="CNBC FHD" tvg-id="CNBC.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" group-title="MoveOnJoy" radio="false",CNBC FHD
 https://fl7.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1  tvg-name="CNBC World" tvg-id="CNBC.World.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnbc-world-flat-us.png?raw=true" group-title="MoveOnJoy" radio="false",CNBC World
+https://fl7.moveonjoy.com/CNBC_World/index.m3u8
 #EXTINF:-1  tvg-name="CNN" tvg-id="CNN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="MoveOnJoy" radio="false",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
 #EXTINF:-1  tvg-name="CNN INTERNATIONAL" tvg-id="Cable.News.Network.International.(CNNI).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true" group-title="MoveOnJoy" radio="false",CNN INTERNATIONAL
 https://fl7.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
 #EXTINF:-1  tvg-name="COMEDY CENTRAL" tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="MoveOnJoy" radio="false",COMEDY CENTRAL
 https://fl7.moveonjoy.com/Comedy_Central/index.m3u8
+#EXTINF:-1  tvg-name="Comedy TV" tvg-id="Comedy.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/comedy-tv-us.png?raw=true" group-title="MoveOnJoy" radio="false",Comedy TV
+https://fl7.moveonjoy.com/Comedy_TV/index.m3u8
 #EXTINF:-1  tvg-name="COMET" tvg-id="Comet.TV.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/comet-us.png" group-title="MoveOnJoy" radio="false",COMET
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 #EXTINF:-1  tvg-name="COOKING" tvg-id="The.Cooking.Channel.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" group-title="MoveOnJoy" radio="false",COOKING
